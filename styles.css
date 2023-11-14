@@ -8,7 +8,7 @@ html {
 }
 
 body {
-  background-color: rgb(218, 119, 213);
+  background-color: rgb(218, 43, 203);
   color: #fff;  
   font-family: Century Gothic, Geneva, Tahoma, sans-serif;
   width: 100%;
@@ -29,9 +29,9 @@ body {
 }
 
 canvas {
-  border: 4px solid #ff1100;
+  border: 4px solid #b700ffd0;
   border-radius: 8px;
-  background-color: #f2f477;
+  background-color: #77c6f4;
 }
 
 .btns {
@@ -45,7 +45,7 @@ canvas {
 button {
   background-color: #a6abee;
   border-radius: 20px;
-  border-color: #f6ff00;
+  border-color: #ff00aa;
   font-family: inherit;
   margin: 0;
   padding: 5px 20px;
@@ -71,14 +71,14 @@ button:not(:last-child) {
 }
 .btn-reiniciar button {
   width: 150px;
-  background-color: rgb(132, 198, 209);
-  border: 2px solid rgb(204, 204, 25);
+  background-color: rgb(67, 153, 211);
+  border: 2px solid rgb(67, 250, 97);
   font-weight: 200;
 }
 .btn-reiniciar button:hover {
   width: 150px;
   background-color:  rgb(250, 250, 67);
-  border: 2px solid   rgb(255, 88, 88);
+  border: 2px solid   rgb(88, 236, 255);
   padding: 50x, 20px;
   font-weight: bold;
 }
