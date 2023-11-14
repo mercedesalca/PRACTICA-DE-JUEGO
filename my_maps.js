@@ -4,14 +4,14 @@ NOTA: AL FINAL DE CADA NIVEL, INICIA EL SIGUIENTE
 
 const emojis = {
   '-': ' ',
-  'O': '🧧',
-  'X': '☘️',
-  'I': '🌷',
-  'PLAYER': '🦋',
+  'O': '🎮',
+  'X': '🌸',
+  'I': '🐻',
+  'PLAYER': '🐼',
   'BOMB_COLLISION': '🥶',
   'GAME_OVER': '😭',
-  'WIN': '🥇',
-  'HEART':'🌟'
+  'WIN': '🏆',
+  'HEART':'💓'
 };
 
 const maps = [];
