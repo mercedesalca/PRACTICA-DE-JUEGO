@@ -270,3 +270,9 @@ reiniciar.addEventListener('click', againPage)
 function againPage() {
     location.reload()
 }
+const playSound = function() {
+  var sonido = new Audio("musica de juego.mp3");
+  sonido.play();
+  document.removeEventListener('click', playSound);
+}
+document.addEventListener('click', playSound);
